@@ -1,0 +1,27 @@
+_repo: Poems-on-Golf_37323
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37323-h/images/cover.png
+creator:
+  editor:
+    agent_name: Royal Burgess Golfing Society of Edinburgh
+    aliases:
+    - Edinburgh, Royal Burgess Golfing Society of
+    - Society, Edinburgh Burgess Golfing
+    gutenberg_agent_id: '38773'
+    url: http://www.gutenberg.org/2009/agents/38773
+description: ''
+gutenberg_issued: '2011-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37323'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Golf -- Poetry'
+- !lcc 'PR'
+title: Poems on Golf
+url: http://www.gutenberg.org/ebooks/37323
